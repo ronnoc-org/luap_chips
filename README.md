@@ -4,7 +4,7 @@ Management reports, dashboards and videos for **Luap Chips Ltd**, a fictitious U
 
 The material is written for a board of directors, senior management team and lead investors, many of whom are not finance specialists. It was created to demonstrate AI-assisted financial reporting.
 
-**[Open the site](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)**
+**[Open the site](https://ronnoc-org.github.io/luap_chips/)**
 
 > This is for demonstration purposes only; Luap Chips Ltd is a fictitious company and all data has been artificially generated.
 
